@@ -4,7 +4,7 @@
 - 🔭 I’m currently searching a new job. I will leave some links below if you would like to contact me
 - 🤓 I’m currently learning Full-Stack Developing.
 - 💬 Ask me about React, Next.JS, Redux and TypeScript.
-- 📫 You can reach me by zbdkspcs@gmail.com or with:
+- 📫 You can reach me by educabre8991@gmail.com or with:
 ### Social Media
 <table>
     <tr>
