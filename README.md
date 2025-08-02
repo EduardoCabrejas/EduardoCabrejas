@@ -13,6 +13,9 @@ I’m currently looking for new challenges and opportunities to grow.
         <td><img src="https://github.com/user-attachments/assets/cb4076a3-ec8a-4988-839b-0f4d82d09354" alt="CSS3" width="50" height="50"></td>
         <td><img src="https://github.com/user-attachments/assets/4c46eca1-57fb-49e2-8d31-08ee47bd8ddf" alt="JavaScript" width="50" height="50"></td>
         <td><img src="https://github.com/user-attachments/assets/b738b17c-a7b3-4308-9942-092550138f70" alt="TypeScript" width="50" height="50"></td>
+        <td><img src="https://github.com/user-attachments/assets/2dbc7ab3-5be8-41d8-bbbb-f5dc9781e88e" alt="Node.js" width="50" height="50"></td>
+        <td><img src="https://github.com/user-attachments/assets/959661cd-b2cc-45f1-bebe-d850aeebe391" alt="MongoDB" width="50" height="50"></td>
+        <td><img src="https://github.com/user-attachments/assets/73d9499d-6be7-4a92-bfcf-5b935d9db5c8" alt="PostgresSQL" width="50" height="50"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/user-attachments/assets/883a3ed7-f5eb-4e74-b007-7400be1eecfe" alt="Bootstrap" width="50" height="50"></td>
@@ -22,16 +25,6 @@ I’m currently looking for new challenges and opportunities to grow.
         <td><img src="https://github.com/user-attachments/assets/518266eb-010a-4f18-b1a9-f161220a399d" alt="React" width="50" height="50"></td>
         <td><img src="https://github.com/user-attachments/assets/8e4e1517-688d-45b0-bf8c-c864a8426219" alt="Redux" width="50" height="50"></td>
         <td><img src="https://github.com/user-attachments/assets/15402704-2aee-4a00-a568-f036ce85ceeb" alt="Material UI" width="50" height="50"></td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/2dbc7ab3-5be8-41d8-bbbb-f5dc9781e88e" alt="Node.js" width="50" height="50"></td>
-        <td><img src="https://github.com/user-attachments/assets/959661cd-b2cc-45f1-bebe-d850aeebe391" alt="MongoDB" width="50" height="50"></td>
-        <td><img src="https://github.com/user-attachments/assets/73d9499d-6be7-4a92-bfcf-5b935d9db5c8" alt="PostgresSQL" width="50" height="50"></td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/0eede727-5573-421c-8507-c23f11e2e8e1" alt="Canva" width="50" height="50"></td>
-        <td><img src="https://github.com/user-attachments/assets/3bf4693f-a32e-4915-98b8-43ab0ab647c2" alt="Figma" width="50" height="50"></td>
-        <td><img src="https://github.com/user-attachments/assets/77fcbf43-2e62-4dbd-b826-688c577a667e" alt="Vercel" width="50" height="50"></td>
     </tr>
 </table>
 
