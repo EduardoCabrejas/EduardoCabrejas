@@ -1,39 +1,49 @@
-# Hello 👋, I am Eduardo A. Cabrejas
+# 👋 Hello, I’m Eduardo A. Cabrejas
 
-I’m Full Stack Developer specialized in Front-end. I'm currently searching a new job environment for both positions. I've +1 year of experience in my profession. My strongest current technologies are:
-<table>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/f35737dd-8a7f-43c5-8bee-a8a33a667c9e" alt="HTML5"></td>
-        <td><img src="https://github.com/user-attachments/assets/cb4076a3-ec8a-4988-839b-0f4d82d09354" alt="CSS3"></td>
-        <td><img src="https://github.com/user-attachments/assets/4c46eca1-57fb-49e2-8d31-08ee47bd8ddf" alt="JavaScript"></td>
-        <td><img src="https://github.com/user-attachments/assets/b738b17c-a7b3-4308-9942-092550138f70" alt="TypeScript"></td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/883a3ed7-f5eb-4e74-b007-7400be1eecfe" alt="Bootstrap"></td>
-        <td><img src="https://github.com/user-attachments/assets/2dbc7ab3-5be8-41d8-bbbb-f5dc9781e88e" alt="Node.js"></td>
-        <td><img src="https://github.com/user-attachments/assets/959661cd-b2cc-45f1-bebe-d850aeebe391" alt="MongoDB"></td>
-        <td><img src="https://github.com/user-attachments/assets/73d9499d-6be7-4a92-bfcf-5b935d9db5c8" alt="PostgresSQL"></td>
-        <td><img src="https://github.com/user-attachments/assets/e91db2a0-9c69-4bc0-bd2d-0e950d6f9530" alt="Tailwind CSS"></td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/a05d529b-20bb-4cd6-9d5b-e918c403ba80" alt="Next.js"></td>
-        <td><img src="https://github.com/user-attachments/assets/7ee0e6ec-e6e5-4cf0-81b6-581f1f96406e" alt="Vite.js"></td>
-        <td><img src="https://github.com/user-attachments/assets/518266eb-010a-4f18-b1a9-f161220a399d" alt="React"></td>
-        <td><img src="https://github.com/user-attachments/assets/8e4e1517-688d-45b0-bf8c-c864a8426219" alt="Redux"></td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/0eede727-5573-421c-8507-c23f11e2e8e1" alt="Canva"></td>
-        <td><img src="https://github.com/user-attachments/assets/3bf4693f-a32e-4915-98b8-43ab0ab647c2" alt="Figma"></td>
-        <td><img src="https://github.com/user-attachments/assets/15402704-2aee-4a00-a568-f036ce85ceeb" alt="Material UI"></td>
-        <td><img src="https://github.com/user-attachments/assets/77fcbf43-2e62-4dbd-b826-688c577a667e" alt="Vercel"></td>
-    </tr>
-</table>
+I’m a **Full Stack Developer** specialized in Front-end with 1+ year of professional experience.  
+I’m currently looking for new challenges and opportunities to grow.
 
-### Social Media
-<table>
-    <tr>
-        <td><a href="https://www.linkedin.com/in/eduardo-cabrejas"><img src="https://github.com/user-attachments/assets/145b1180-1f53-49f3-a0af-8b1e5bcd73e9" alt="LinkedIn"></a></td>
-</table>
+---
 
+## 💻 Technologies & Tools
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite.js](https://github.com/user-attachments/assets/7ee0e6ec-e6e5-4cf0-81b6-581f1f96406e)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://github.com/user-attachments/assets/883a3ed7-f5eb-4e74-b007-7400be1eecfe)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white)
+
+---
+
+## 🚀 Projects Highlights
+
+### [Truckers Talent Inc. - Job Board](https://github.com/eduardo-cabrejas/job-board)
+![Job Board Screenshot](https://raw.githubusercontent.com/eduardo-cabrejas/job-board/main/screenshots/homepage.png)
+> A full-stack job board application built with React, Node.js, and PostgreSQL.
+
+---
+
+### [Portfolio Website](https://eduardo-cabrejas.github.io/portfolio)
+![Portfolio Screenshot](https://raw.githubusercontent.com/eduardo-cabrejas/portfolio/main/assets/screenshot.png)
+> My personal portfolio showcasing projects, skills and contact info.
+
+---
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cabrejas)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardo-cabrejas)
+
+---
+
+*Thanks for visiting my profile! Feel free to connect or check out my projects.*
 
