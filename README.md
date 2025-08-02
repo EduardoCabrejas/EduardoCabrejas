@@ -14,12 +14,12 @@ I’m currently looking for new challenges and opportunities to grow.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite.js](https://github.com/user-attachments/assets/7ee0e6ec-e6e5-4cf0-81b6-581f1f96406e)
+![Vite.js](https://img.shields.io/badge/Vite.js-339933?style=for-the-badge&logo=vitedotjs&logoColor=light-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://github.com/user-attachments/assets/883a3ed7-f5eb-4e74-b007-7400be1eecfe)
+![Bootstrap](https://github.com/user-attachments/assets/Bootstrap-06B6D4?style=for-the-badge&logo=bootstrap&logoColor=purple)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ---
