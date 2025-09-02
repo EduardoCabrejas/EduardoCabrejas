@@ -39,7 +39,7 @@ I’m currently looking for new challenges and opportunities to grow.
 ---
 
 ### [Portfolio Website](https://educabrejas-portafolio-es.vercel.app/)
-![Portfolio Screenshot](https://raw.githubusercontent.com/eduardo-cabrejas/portafolio-template/main/src/assets/logos/logo.png)
+![Portfolio Logo](https://raw.githubusercontent.com/EduardoCabrejas/portafolio-template/main/src/assets/logos/logo.png)
 > My personal portfolio showcasing projects, skills and experience info.
 
 ---
