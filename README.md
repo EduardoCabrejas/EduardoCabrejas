@@ -32,17 +32,31 @@ I’m currently looking for new challenges and opportunities to grow.
 
 ## 🚀 Projects Highlights
 
-### [Truckers Talent Inc. - Job Board](https://www.truckerstalent.com/)
-<img src="https://drive.google.com/uc?export=view&id=14L7V8FA8lpjhL4JNBTqoieirFyGXjksu" width="200" height="200">
-> A full-stack job board application built with React, Node.js, and PostgreSQL. I participated into an internship on the develop work of this website. After finish the internship, I being as a partner with the company, and I continued collaborating in the develop work, the SCRUM meetings and the new developers guide by this website.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.truckerstalent.com/">
+        <img src="https://drive.google.com/uc?export=view&id=14L7V8FA8lpjhL4JNBTqoieirFyGXjksu" width="200"><br>
+        <strong>Truckers Talent Inc. - Job Board</strong>
+      </a>
+      <p>
+        A full-stack job board application built with React, Node.js, and PostgreSQL. 
+        I participated in an internship and later continued collaborating as a partner, 
+        contributing to development, SCRUM meetings, and mentoring new developers.
+      </p>
+    </td>
 
----
-
-### [Portfolio Website](https://educabrejas-portafolio-es.vercel.app/)
-<img src="https://raw.githubusercontent.com/EduardoCabrejas/portafolio-template/main/src/assets/logos/logo.png" width="200" height="200">
-> My personal portfolio showcasing projects, skills and experience info.
-
----
+    <td align="center" width="50%">
+      <a href="https://educabrejas-portafolio-es.vercel.app/">
+        <img src="https://raw.githubusercontent.com/EduardoCabrejas/portafolio-template/main/src/assets/logos/logo.png" width="200"><br>
+        <strong>Portfolio Website</strong>
+      </a>
+      <p>
+        My personal portfolio showcasing projects, skills, and experience.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 📫 How to reach me
 
