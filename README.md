@@ -33,7 +33,7 @@ I’m currently looking for new challenges and opportunities to grow.
 ## 🚀 Projects Highlights
 
 ### [Truckers Talent Inc. - Job Board](https://www.truckerstalent.com/)
-<img src="https://drive.google.com/file/d/14L7V8FA8lpjhL4JNBTqoieirFyGXjksu/view?usp=drive_link" width="100" height="100">
+<img src="https://drive.google.com/uc?export=view&id=14L7V8FA8lpjhL4JNBTqoieirFyGXjksu" width="100" height="100">
 > A full-stack job board application built with React, Node.js, and PostgreSQL. I participated into an internship on the develop work of this website. After finish the internship, I being as a partner with the company, and I continued collaborating in the develop work, the SCRUM meetings and the new developers guide by this website.
 
 ---
