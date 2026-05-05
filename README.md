@@ -32,7 +32,7 @@ I’m currently looking for new challenges and opportunities to grow.
 
 ## 🚀 Projects Highlights
 
-### [Truckers Talent Inc. - Job Board]([https://github.com/eduardo-cabrejas/job-board](https://plankton-app-65mdw.ondigitalocean.app/))
+### [Truckers Talent Inc. - Job Board]([[https://github.com/eduardo-cabrejas/job-board](https://plankton-app-65mdw.ondigitalocean.app/)](https://www.truckerstalent.com/))
 ![Job Board Screenshot](https://raw.githubusercontent.com/eduardo-cabrejas/job-board/main/screenshots/homepage.png)
 > A full-stack job board application built with React, Node.js, and PostgreSQL.
 
