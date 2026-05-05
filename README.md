@@ -59,10 +59,20 @@ I’m currently looking for new challenges and opportunities to grow.
 
 ## 📫 How to reach me
 
-<div style="display=flex; justify-content=space-between;">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cabrejas)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardo-cabrejas)
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/eduardo-cabrejas">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eduardo-cabrejas">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 *Thanks for visiting my profile! Feel free to connect or check out my projects.*
