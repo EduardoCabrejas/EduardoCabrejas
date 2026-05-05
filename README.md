@@ -34,7 +34,7 @@ I’m currently looking for new challenges and opportunities to grow.
 
 <table>
   <tr>
-    <td align="center" width="50%">
+          <td align="center" width="50%">
       <a href="https://www.truckerstalent.com/">
         <img src="https://drive.google.com/uc?export=view&id=14L7V8FA8lpjhL4JNBTqoieirFyGXjksu" width="200"><br>
         <strong>Truckers Talent Inc. - Job Board</strong>
@@ -45,7 +45,6 @@ I’m currently looking for new challenges and opportunities to grow.
         contributing to development, SCRUM meetings, and mentoring new developers.
       </p>
     </td>
-
     <td align="center" width="50%">
       <a href="https://educabrejas-portafolio-es.vercel.app/">
         <img src="https://raw.githubusercontent.com/EduardoCabrejas/portafolio-template/main/src/assets/logos/logo.png" width="200"><br>
